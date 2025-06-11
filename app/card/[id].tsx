@@ -8,7 +8,7 @@ import AnimatedBackground from '@/components/AnimatedBackground';
 const defaultCardContents = [
   {
     title: "O Começo de Tudo",
-    image: "https://images.pexels.com/photos/1024960/pexels-photo-1024960.jpeg?auto=compress&cs=tinysrgb&w=800",
+    image: "https://i.imgur.com/V97KOOy.png",
     content: `Meu amor,
 
 Em meio a tantas pessoas no mundo, de repente… ali estava você.
@@ -33,7 +33,7 @@ Victor`,
   },
   {
     title: "Hakuna Matata",
-    image: "https://images.pexels.com/photos/167636/pexels-photo-167636.jpeg?auto=compress&cs=tinysrgb&w=800",
+    image: "https://i.imgur.com/V97KOOy.png",
     content: `Princesa,
 
 Eu lembro do frio na barriga como se fosse hoje.
@@ -54,7 +54,7 @@ Victor`,
   },
   {
     title: "Sim Pra Sempre",
-    image: "https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg?auto=compress&cs=tinysrgb&w=800",
+    image: "https://i.imgur.com/V97KOOy.png",
     content: `Vida,
 
 O cenário era simples: o Açaí Jeribá, perto do seu trabalho.
@@ -77,7 +77,7 @@ Victor`,
   },
   {
     title: "Primeira Viagem",
-    image: "https://images.pexels.com/photos/1702238/pexels-photo-1702238.jpeg?auto=compress&cs=tinysrgb&w=800",
+    image: "https://i.imgur.com/V97KOOy.png",
     content: `Minha companheira de aventuras,
 
 Nossa primeira viagem juntos teve um propósito forte: te acompanhar na tentativa de tirar o visto.
@@ -98,7 +98,7 @@ Victor`,
   },
   {
     title: "Meu BB",
-    image: "https://images.pexels.com/photos/1468379/pexels-photo-1468379.jpeg?auto=compress&cs=tinysrgb&w=800",
+    image: "https://i.imgur.com/V97KOOy.png",
     content: `BB,
 
 Entre tantas palavras que poderiam representar o que você é pra mim, eu escolhi uma com apenas duas letras: BB.
@@ -119,7 +119,7 @@ Victor`,
   },
   {
     title: "Nossa Música",
-    image: "https://images.pexels.com/photos/167636/pexels-photo-167636.jpeg?auto=compress&cs=tinysrgb&w=800",
+    image: "https://i.imgur.com/V97KOOy.png",
     content: `Minha melodia,
 
 Essa música representa mais pra mim do que pra você…
@@ -142,7 +142,7 @@ Victor`,
   },
   {
     title: "Nosso Sim",
-    image: "https://images.pexels.com/photos/1024960/pexels-photo-1024960.jpeg?auto=compress&cs=tinysrgb&w=800",
+    image: "https://i.imgur.com/V97KOOy.png",
     content: `Meu amor,
 
 Eu queria ter feito uma surpresa grandiosa…
@@ -167,7 +167,7 @@ Victor`,
   },
   {
     title: "Melhor Viagem",
-    image: "https://images.pexels.com/photos/457882/pexels-photo-457882.jpeg?auto=compress&cs=tinysrgb&w=800",
+    image: "https://i.imgur.com/V97KOOy.png",
     content: `Minha aventureira,
 
 Foi mais do que uma viagem.
@@ -190,7 +190,7 @@ Victor`,
   },
   {
     title: "Sonho Branco",
-    image: "https://images.pexels.com/photos/457882/pexels-photo-457882.jpeg?auto=compress&cs=tinysrgb&w=800",
+    image: "https://i.imgur.com/V97KOOy.png",
     content: `Minha sereia das neves,
 
 Você sonhava em ver a neve.
@@ -211,7 +211,7 @@ Victor`,
   },
   {
     title: "Pra Sempre Nós",
-    image: "https://images.pexels.com/photos/1024960/pexels-photo-1024960.jpeg?auto=compress&cs=tinysrgb&w=800",
+    image: "https://i.imgur.com/V97KOOy.png",
     content: `Minha vida,
 
 A gente já foi tudo: Começo, meio, tropeço, silêncio, saudade, reencontro.
