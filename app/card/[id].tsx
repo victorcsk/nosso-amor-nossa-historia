@@ -8,7 +8,7 @@ import AnimatedBackground from '@/components/AnimatedBackground';
 const defaultCardContents = [
   {
     title: "O Começo de Tudo",
-    image: "https://i.postimg.cc/hGmmW87N/V97KOoy.png",
+    image: "https://i.postimg.cc/xdGKNyTM/Screenshot-20190830-001224-Messenger.jpg",
     content: `Meu amor,
 
 Em meio a tantas pessoas no mundo, de repente… ali estava você.
@@ -33,7 +33,7 @@ Victor`,
   },
   {
     title: "Hakuna Matata",
-    image: "https://i.postimg.cc/xdGKNyTM/Screenshot-20190830-001224-Messenger.jpg",
+    image: "https://i.postimg.cc/GtfYnXqw/20190907-233533-1.jpg",
     content: `Princesa,
 
 Eu lembro do frio na barriga como se fosse hoje.
@@ -54,7 +54,7 @@ Victor`,
   },
   {
     title: "Sim Pra Sempre",
-    image: "https://i.imgur.com/V97KOOy.png",
+    image: "https://i.postimg.cc/tT2W2q6g/20200104-201325.jpg",
     content: `Vida,
 
 O cenário era simples: o Açaí Jeribá, perto do seu trabalho.
@@ -77,7 +77,7 @@ Victor`,
   },
   {
     title: "Primeira Viagem",
-    image: "https://i.imgur.com/V97KOOy.png",
+    image: "https://i.postimg.cc/prr8Sw-QJ/20230112-180247.jpg",
     content: `Minha companheira de aventuras,
 
 Nossa primeira viagem juntos teve um propósito forte: te acompanhar na tentativa de tirar o visto.
@@ -98,7 +98,7 @@ Victor`,
   },
   {
     title: "Meu BB",
-    image: "https://i.imgur.com/V97KOOy.png",
+    image: "https://i.postimg.cc/k4nWQ6BZ/IMG-1393.jpg",
     content: `BB,
 
 Entre tantas palavras que poderiam representar o que você é pra mim, eu escolhi uma com apenas duas letras: BB.
@@ -119,7 +119,7 @@ Victor`,
   },
   {
     title: "Nossa Música",
-    image: "https://i.imgur.com/V97KOOy.png",
+    image: "https://i.postimg.cc/k5PQ5h97/20230109-115354.jpg",
     content: `Minha melodia,
 
 Essa música representa mais pra mim do que pra você…
@@ -142,7 +142,7 @@ Victor`,
   },
   {
     title: "Nosso Sim",
-    image: "https://i.imgur.com/V97KOOy.png",
+    image: "https://i.postimg.cc/gk5yC2TX/20230325-231258.jpg",
     content: `Meu amor,
 
 Eu queria ter feito uma surpresa grandiosa…
@@ -167,7 +167,7 @@ Victor`,
   },
   {
     title: "Melhor Viagem",
-    image: "https://i.imgur.com/V97KOOy.png",
+    image: "https://i.postimg.cc/t4xdpGKr/20240828-190514.jpg",
     content: `Minha aventureira,
 
 Foi mais do que uma viagem.
@@ -190,8 +190,8 @@ Victor`,
   },
   {
     title: "Sonho Branco",
-    image: "https://i.imgur.com/V97KOOy.png",
-    content: `Minha sereia das neves,
+    image: "https://i.postimg.cc/ncMYSD0f/20240829-095959.jpg",
+    content: `Minha deusa das neves,
 
 Você sonhava em ver a neve.
 
@@ -211,7 +211,7 @@ Victor`,
   },
   {
     title: "Pra Sempre Nós",
-    image: "https://i.imgur.com/V97KOOy.png",
+    image: "https://i.postimg.cc/Bb75QSZz/Captura-de-tela-2025-06-11-154800.png",
     content: `Minha vida,
 
 A gente já foi tudo: Começo, meio, tropeço, silêncio, saudade, reencontro.
