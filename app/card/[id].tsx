@@ -8,7 +8,7 @@ import AnimatedBackground from '@/components/AnimatedBackground';
 const defaultCardContents = [
   {
     title: "O Começo de Tudo",
-    image: "https://i.postimg.cc/xdGKNyTM/Screenshot-20190830-001224-Messenger.jpg",
+    image: "https://i.postimg.cc/ncHRTrQv/image-2025-06-11-205655713.png",
     content: `Meu amor,
 
 Em meio a tantas pessoas no mundo, de repente… ali estava você.
