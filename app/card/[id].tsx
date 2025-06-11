@@ -40,7 +40,7 @@ Eu lembro do frio na barriga como se fosse hoje.
 
 O Monte Carmo Shopping virou cenário de um momento único: a primeira vez que te vi pessoalmente.
 
-Assistimos juntos ao live action de O Rei Leão. E ali, naquela sala escura, cercados por vozes cantando "Hakuna Matata", eu tive certeza de que aquele momento estaria guardado pra sempre.
+Assistimos juntos ao live action de O Rei Leão. E ali, naquela sala escura, cercados por vozes, pessoas e a musica "Hakuna Matata", eu tive certeza de que aquele momento estaria guardado pra sempre.
 
 E o melhor de tudo? Você me agarrou e me beijou.
 
