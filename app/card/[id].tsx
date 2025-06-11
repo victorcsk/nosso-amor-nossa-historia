@@ -565,9 +565,11 @@ const styles = StyleSheet.create({
     elevation: 5,
   },
   cardImage: {
-    width: '100%',
-    height: 200,
-  },
+  width: '100%',
+  height: undefined,
+  aspectRatio: 3 / 2, // largura 3, altura 2 (ajuste conforme necessário)
+  resizeMode: 'cover', // ou 'contain' se preferir mostrar tudo
+},
   imageOverlay: {
     position: 'absolute',
     top: 0,
