@@ -11,23 +11,23 @@ import * as FileSystem from 'expo-file-system';
 const defaultMemoryPhotos = [
   {
     id: 1,
-    image: "https://images.pexels.com/photos/1024960/pexels-photo-1024960.jpeg?auto=compress&cs=tinysrgb&w=800",
-    caption: "Nosso primeiro encontro - você estava linda de rosa"
+    image: "https://i.postimg.cc/SQZCFxvL/20190922-215625.jpg",
+    caption: "Primeiro jogo de Uno- Deixei voce ganhar porque te amo"
   },
   {
     id: 2,
-    image: "https://images.pexels.com/photos/167636/pexels-photo-167636.jpeg?auto=compress&cs=tinysrgb&w=800",
-    caption: "Dançando na sala - nossa música tocando"
+    image: "https://i.postimg.cc/XqDCwsC1/20191225-153618.jpg",
+    caption: "Primeiro Natal junto com sua familia, naquele dia voce me apresentou para eles"
   },
   {
     id: 3,
-    image: "https://images.pexels.com/photos/457882/pexels-photo-457882.jpeg?auto=compress&cs=tinysrgb&w=800",
-    caption: "Primeira viagem - pôr do sol na praia"
+    image: "https://i.postimg.cc/tJg6ZKYV/20240829-124137.jpg",
+    caption: "Nos 2 fazendo amizade na nossa viagem"
   },
   {
     id: 4,
-    image: "https://images.pexels.com/photos/4099238/pexels-photo-4099238.jpeg?auto=compress&cs=tinysrgb&w=800",
-    caption: "Você fazendo brigadeiro - concentrada e linda"
+    image: "https://i.postimg.cc/02bm81TT/IMG-0168.jpg",
+    caption: "Você sempre comigo aonde quer que eu esteja"
   }
 ];
 
