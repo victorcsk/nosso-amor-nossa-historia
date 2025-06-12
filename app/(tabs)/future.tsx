@@ -759,18 +759,7 @@ const styles = StyleSheet.create({
     textShadowOffset: { width: 0, height: 1 },
     textShadowRadius: 2,
   },
-  photoContainer: {
-    marginBottom: 20,
-  },
-  photoPlaceholder: {
-    backgroundColor: '#f8f8f8',
-    borderRadius: 15,
-    padding: 20,
-    alignItems: 'center',
-    minHeight: 120,
-    justifyContent: 'center',
-  },
-photoContainer: {
+   photoContainer: {
     marginBottom: 20,
   },
   photoPlaceholder: {
@@ -794,6 +783,7 @@ photoContainer: {
     borderRadius: 15,
     marginBottom: 10,
   },
+});
 
   },
   promiseBox: {
