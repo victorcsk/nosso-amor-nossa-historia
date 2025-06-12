@@ -571,7 +571,7 @@ const styles = StyleSheet.create({
   headerSubtitle: {
     fontSize: 16,
     color: '#e91e63',
-    textAlign: 'center',
+    textAlign: 'center',  
     lineHeight: 24,
     fontStyle: 'italic',
     textShadowColor: 'rgba(255, 255, 255, 0.3)',
