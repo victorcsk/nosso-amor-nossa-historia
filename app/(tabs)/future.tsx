@@ -770,13 +770,14 @@ const styles = StyleSheet.create({
     minHeight: 120,
     justifyContent: 'center',
   },
-  photoCaption: {
-    fontSize: 14,
-    color: '#c2185b',
-    textAlign: 'center',
-    marginTop: 10,
-    fontStyle: 'italic',
-    photoImage: {
+photoCaption: {
+  fontSize: 14,
+  color: '#c2185b',
+  textAlign: 'center',
+  marginTop: 10,
+  fontStyle: 'italic',
+},
+photoImage: {
   width: '100%',
   height: 200,
   borderRadius: 15,
