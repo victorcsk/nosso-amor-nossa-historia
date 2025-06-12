@@ -780,6 +780,13 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     marginTop: 10,
     fontStyle: 'italic',
+    photoImage: {
+  width: '100%',
+  height: 200,
+  borderRadius: 15,
+  marginBottom: 10,
+},
+
   },
   promiseBox: {
     backgroundColor: '#f8f8f8',
