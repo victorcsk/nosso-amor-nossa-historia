@@ -782,8 +782,6 @@ const styles = StyleSheet.create({
     height: 200,
     borderRadius: 15,
     marginBottom: 10,
-  },
-});
 
   },
   promiseBox: {
