@@ -770,19 +770,30 @@ const styles = StyleSheet.create({
     minHeight: 120,
     justifyContent: 'center',
   },
-photoCaption: {
-  fontSize: 14,
-  color: '#c2185b',
-  textAlign: 'center',
-  marginTop: 10,
-  fontStyle: 'italic',
-},
-photoImage: {
-  width: '100%',
-  height: 200,
-  borderRadius: 15,
-  marginBottom: 10,
-},
+photoContainer: {
+    marginBottom: 20,
+  },
+  photoPlaceholder: {
+    backgroundColor: '#f8f8f8',
+    borderRadius: 15,
+    padding: 20,
+    alignItems: 'center',
+    minHeight: 120,
+    justifyContent: 'center',
+  },
+  photoCaption: {
+    fontSize: 14,
+    color: '#c2185b',
+    textAlign: 'center',
+    marginTop: 10,
+    fontStyle: 'italic',
+  },
+  photoImage: {
+    width: '100%',
+    height: 200,
+    borderRadius: 15,
+    marginBottom: 10,
+  },
 
   },
   promiseBox: {
