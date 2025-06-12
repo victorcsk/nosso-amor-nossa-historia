@@ -446,11 +446,7 @@ export default function FutureScreen() {
       <ScrollView showsVerticalScrollIndicator={false}>
         {memoryPhotos.map((photo) => (
   <View key={photo.id} style={styles.photoContainer}>
-    <Image
-      source={{ uri: photo.image }}
-      style={styles.photoImage}
-      resizeMode="cover"
-    />
+    <Image source={{ uri: photo.image }} style={styles.photoImage} />
     <Text style={styles.photoCaption}>{photo.caption}</Text>
   </View>
 ))}
