@@ -426,36 +426,38 @@ export default function FutureScreen() {
       </Modal>
 
       {/* Photos Modal */}
-      <Modal
-        visible={showPhotosModal}
-        transparent
-        animationType="fade"
-        onRequestClose={() => setShowPhotosModal(false)}
+     <Modal
+  visible={showPhotosModal}
+  transparent
+  animationType="fade"
+  onRequestClose={() => setShowPhotosModal(false)}
+>
+  <View style={styles.modalOverlay}>
+    <View style={styles.photosModalContent}>
+      <TouchableOpacity
+        style={styles.closeButton}
+        onPress={() => setShowPhotosModal(false)}
       >
-        <View style={styles.modalOverlay}>
-          <View style={styles.photosModalContent}>
-            <TouchableOpacity
-              style={styles.closeButton}
-              onPress={() => setShowPhotosModal(false)}
-            >
-              <X size={24} color="#c2185b" />
-            </TouchableOpacity>
-            
-            <Text style={styles.modalTitle}>Memórias em Fotos</Text>
-            
-            <ScrollView showsVerticalScrollIndicator={false}>
-              {memoryPhotos.map((photo) => (
-                <View key={photo.id} style={styles.photoContainer}>
-                  <View style={styles.photoPlaceholder}>
-                    <Camera size={40} color="#ffc2cc" />
-                    <Text style={styles.photoCaption}>{photo.caption}</Text>
-                  </View>
-                </View>
-              ))}
-            </ScrollView>
+        <X size={24} color="#c2185b" />
+      </TouchableOpacity>
+
+      <Text style={styles.modalTitle}>Memórias em Fotos</Text>
+
+      <ScrollView showsVerticalScrollIndicator={false}>
+        {memoryPhotos.map((photo) => (
+          <View key={photo.id} style={styles.photoContainer}>
+            <Image
+              source={{ uri: photo.image }}
+              style={styles.photoImage}
+              resizeMode="cover"
+            />
+            <Text style={styles.photoCaption}>{photo.caption}</Text>
           </View>
-        </View>
-      </Modal>
+        ))}
+      </ScrollView>
+    </View>
+  </View>
+</Modal>
 
       {/* Promises Modal */}
       <Modal
